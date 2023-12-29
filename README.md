@@ -26,7 +26,8 @@ What you'll see below is a log for every project I do for 100 days of Python Cod
 17)	Trivia - Continue to practice OOP, this time by making a 'modular' trivia quiz app.
 18)	Hirst Painting - Intro to Python GUI/external libraries, refresher on how to use documentation properly.
 19)	Turtle Race - Continuing to refresh on using external libraries, reading documentation and applying it correctly to make fun things!
-20-21) Snake Game - Apply OOP knowledge, documentation and small baby steps to make a snake game! 
+20) Snake Game - Apply OOP knowledge, documentation and small baby steps to make a snake game!
+21) Snake Game(Updates) - Made some updates to the Snake Game
 22)	Pong! - Apply superclass knowledge and how to break up a big project into smaller pieces
 23)	Turtle Crossing - Second Capstone project where I got to apply the acquired knowledge from the last few days on how to create a game from scratch using Turtle Graphics.
 24)	Mail-Merge 	Refresh on File I/O and Relative Directories. Also, learned about the replace() function, how handy is that!
@@ -49,6 +50,9 @@ What you'll see below is a log for every project I do for 100 days of Python Cod
 38)	Exercise Tracker - Apply knowledge on APIs and env variables while using a brand new API. 
 39)	Capstone I: Flight Tracker - Capstone Project Part I! Apply all knowledge learned in the last few days to search for cheap flights using multiple APIs and OOP.
 40)	Capstone II: Flight Club - Capstone Project Part II! Build on the previous day. Added smtp and a sheet sign up to the mix.
+
+####
+
 45) Top 100 Movies to watch! - Intro to web scraping, Beautiful Soup and the ethics around it.
 46) Spotify Playlist - Apply knowledge from the last few days to scrape data from top 100 songs to then create a Spotify Playlist using the Spotipy library.
 47) Price Tracker - Use beautiful 🥣 to scrape data, keep track of data and use smtp to alert the user when the threshold has been reached.
@@ -73,6 +77,9 @@ What you'll see below is a log for every project I do for 100 days of Python Cod
 83) Tic Tac Toe - Create a tic tac toe gama from scratch using only python code.
 84) Image Watermarking Application - Create a desktop app that watermarks each image that is uploaded to it.
 85) Typing Speed Indicator - Create a desktop app that indicates your typing speed
+
+#### 
+
 98) Space Race Data Analyzer - Use Jupyter Notebooks to analyze and visualize the Space Race Data of various countries.
 99) Police Involvement in Deaths - Use my Data Science skills to analyze the number of deaths in the US caused by police officers.
 100) United States Earnings' Prediction - Use Machine Learning to predict the earnings of US citizens.
