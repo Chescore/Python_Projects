@@ -14,7 +14,7 @@ What you'll see below is a log for every project I do for 100 days of Python Cod
 8) Caesar Cipher -	Learned about Positional vs. Keyword Arguments
 9) Silent Auction - Refresh on dictionaries and nested structures
 10) Calculator 	- Learned about Docstrings and how to store a function name as a value in a dictionary
-11) Blackjack! 	Apply knowledge from the previous 10 days 	Repo
+11) Blackjack! - Apply knowledge from the previous 10 days 	Repo
 12) Number Guessing Game - Refreshed knowledge on Scope and learned how to modify global variables within functions (although not recommended)
 13) Debugging exercise - Completed various debugging exercises
 14) Higher Lower Game - Apply previous knowledge and refreshed debugging skills!
